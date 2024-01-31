@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/index.php/taxonomy/term/78">
+  <channel>
+    <title>music encoding</title>
+    <link>http://trompamusic.eu/index.php/taxonomy/term/78</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Beethoven’s piano works encoded as MEI</title>
+  <link>http://trompamusic.eu/index.php/node/125</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Beethoven’s piano works encoded as MEI&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/84" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David M. Weigl&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-01-24T09:58:50+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 01/24/2020 - 10:58&lt;/span&gt;
+</description>
+  <pubDate>Fri, 24 Jan 2020 09:58:50 +0000</pubDate>
+    <dc:creator>David M. Weigl</dc:creator>
+    <guid isPermaLink="false">125 at http://trompamusic.eu</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/taxonomy/term/81">
+  <channel>
+    <title>Tempo visualisation</title>
+    <link>http://trompamusic.eu/taxonomy/term/81</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Visualising piano rehearsal characteristics</title>
+  <link>http://trompamusic.eu/node/126</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Visualising piano rehearsal characteristics&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/84" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David M. Weigl&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-10-23T10:24:32+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 10/23/2020 - 12:24&lt;/span&gt;
+</description>
+  <pubDate>Fri, 23 Oct 2020 10:24:32 +0000</pubDate>
+    <dc:creator>David M. Weigl</dc:creator>
+    <guid isPermaLink="false">126 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/126#comments</comments>
+    </item>
+
+  </channel>
+</rss>

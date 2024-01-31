@@ -1,0 +1,10 @@
+@misc{26,
+  author = {Cynthia Liem and Tim Crawford and Marcel van Tilburg and Werner Goebl and David Weigl and Álvaro Sarasúa and Jordi Janer and Patricia Santos},
+  title = {Deliverable 6.2 - Planning for the Execution of Pilots in Real Life Settings},
+  abstract = {The deliverable focuses both on general planning and common interests, as well as on the main goals, first year achievements, and second year plans with action points for each individual use case.
+
+As for general planning and common interests, three main directions are identified. First of all, with the Contributor Environment (CE) now available, and partners being able to import data into it, best practices need to be set on ontological guidelines, such that procedures for data population can be followed unambiguously. Secondly, connections need to be made between plans and models for crowd engagement and human-in-the-loop feedback tasks, as developed under WP4, and the actual audiences within the use cases. For this, narratives are being developed per use case, that can indicate how the use case can stimulate its audience members to become crowd contributors. Finally, while privacy considerations on user data are known, and first guidelines have been set up towards maintaining privacy, no actual user data has been imported into the CE yet. Within each use case, further investigation will be done into any potential use case specific protection and privacy requirements, such that the corresponding authentication and protection mechanisms that will be implemented will take this into account.
+},
+  year = {2019},
+  url = {https://trompamusic.eu/deliverables/TR-D6.2-Planning_for_the_Execution_of_Pilots_in_Real_Life_Settings.pdf},
+}

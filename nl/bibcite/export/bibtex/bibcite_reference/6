@@ -1,0 +1,165 @@
+@misc{6,
+  author = {Aggelos Gkiokas and Emilia Gomez and Alastair Porter and Helena Cuesta and Álvaro Sarasúa and David Weigl and Werner Goebl and Tim Crawford and Cynthia Liem and Marcel van Tilburg and Ingmar Vroomen},
+  title = {Deliverable 3.1 Data Resource Preparation},
+  abstract = {This deliverable D3.1 Data Resource Preparation is submitted in the scope of Work Package 3 and it
+aims to provide information about the target repertoires that will be used in TROMPA use cases, as
+well as how these repertoires will be imported in the TROMPA ecosystem. The elements of the
+selected repertoires are connected to existing online repositories, and will be exploited and enriched
+in the TROMPA use cases.
+At first, we present an overview of the most common Public Domain music repositories
+considered in the TROMPA project for the different use cases: what volumes of data are contained,
+the corresponding data licence, an overview of the represented musical styles as well as potential
+uses for these repositories. Next we provide an overview of the five TROMPA use cases, including
+the technical and repertoire requirements for each of them, and detail the contributions expected to
+be made to the repositories through our use cases. Finally, we summarize all target repertoires and
+we discuss technical details required for further developments in the project.
+In this deliverable, we consider the following existing music repositories: IMSLP covers around
+124,000 unique works, providing scanned scored images (~405,000) that can be exploited in our use
+cases (e.g. for conversion of scanned images to symbolic format); symbolic scores (~37,000) that can
+be directly used for the use cases or for training methods on WP3; and audio recordings (~ 47,000) of
+performances. It can also serve as a place to deposit TROMPA contributions to the Public Domain.
+Similar to the IMSLP, the Choral Public Domain Library (CPDL) is a sheet music archive, in this
+case focusing on vocal and choral music in the Public Domain. It contains around 10,000 unique
+works, most of which are available as scanned score images in PDF format.
+Europeana.eu is the official EU digital platform for cultural heritage, featuring contributions from
+more than 3,000 institutions across Europe. It contains ~320,000 music audio recordings, scanned
+scores, and music videos.
+MuseScore is an online platform that allows the users of the MuseScore software to publish and
+1
+share their music scores online. MuseScore mostly contains user-provided transcriptions of music
+pieces that are not limited to classical.
+ECOLM is an electronic corpus of lute music, predominantly notated in tablature. The total size of
+the ECOLM repertory available to TROMPA is about 2,000 encoded pieces, which is supplemented by
+a further 6,000 whose encodings have been translated from different formats.
+Early Music Online (EMO) is a collection of 300 books of printed music from before 1600, which
+have been digitised and made available as images by the British Library. They cover almost all genres
+and styles of music from the 16th century, including works by all leading composers of the age. The
+music is almost exclusively vocal, for one to twelve voices, mostly printed in part-books. Also in the
+early music field are two relevant public collections of Spanish music suitable for choral singing: BDH, containing facsimiles of c100 books of early printed vocal music, and TLdV, which comprises about
+2,000 encoded scores of similar music.
+MusicBrainz is community-based repository that stores information about artists, their recorded
+works and the relationships between them. It describes a large variety of commercial music
+(including western classical music), consisting of around 1 million artists and 18 million tracks.
+AcousticBrainz provides audio descriptors (rhythm, key, genre tags, mood tags) for almost 4
+million tracks identified using MusicBrainz identifiers.
+Kunst der Fuge consists of around 19,000 MIDI files of western classical music, some of them
+published under a Creative Commons License.
+The CDR Muziekweb catalogue contains music in all music styles, including popular, jazz, world
+music and classical. CDR strives to collect all music released in the Netherlands; this is the only
+criterion to be included in the collection. As of 2018, the collection holds over 600,000 CD’s, 300,000
+LP’s and 25,000 music-DVD’s. In total, there are 579 music styles in use. For classical music, the
+collection has albums in all styles and genres, from all style periods, labels and countries.
+The Vienna 4x22 Piano Corpus consists of score-aligned performance and audio recordings of 4
+short piece excerpts by Mozart, Schubert, and Chopin, each of which performed by 22 professional
+pianists in 1999.
+The humdrum data repository is a collection of musical scores in the Humdrum (kern) file format,
+containing large parts of the standard repertoire for piano solo, string quartet, and choirs, including
+composers such as J. S. Bach, Domenico Scarlatti, Haydn, Mozart, Beethoven, Hummel, Chopin.
+Over the past years, the National Library of the Netherlands has worked on digitizing the
+newspapers that were published in the Netherlands over the past centuries. The Delpher platform
+provides access to dutch newspapers from the years 1618–1995, amounting to over 12 million
+scanned newspaper pages. The newspapers from 1618–1876 are considered to not have any
+copyright-protected material, and a full download of all full texts in OCR, ALTO and XML format is
+available. This information will be useful to increase and improve contextual understanding of how
+musical works and persons historically were perceived.
+Biblioteca Digital Hispanica contains around 5,000 high resolution pages of Spanish music of all
+periods. In particular, it has a major component of 16th-century printed vocal music from a period
+when Spanish composers were highly esteemed. It contains much parallel repertory with 2.17
+Tomás Luis de Victoria, which gives an opportunity for exploring possibilities for practical TROMPA
+linkage between various manifestations of a given work. This collection, privately compiled by
+Nancho Álvarez, contains about 2,000 choral works by leading Spanish composers of the 16th
+century, Victoria, Morales, Guerrero, Vásquez and others. The music is highly suitable for singing by
+amateur choirs, as it is not too difficult; furthermore, its essential simplicity (relative to later music)
+makes it ideal for testing TROMPA’s methods for OMR, score annotation and audio alignment
+components as well as our interfaces for music scholars and choral singers.
+This deliverable also connects existing public domain archives with the different pilots, defining
+core repertoire for the pilots to be enriched during the project. Each pilot corresponds to one of five
+TROMPA use cases, respectively targeting music scholars, orchestras, instrument players, choir
+singers, and music enthusiasts.
+In the Music scholars use case, scholars will be able to find connections between music works on
+multiple levels: from co-occurrences of melodies, harmonic and rhythmic progressions, to the
+large-scale structural similarities of musical works. The score is the main starting point and anchor
+for such research. Our aim for this pilot is to provide an interface for the selection and display of musical scores (sheet music) from the TROMPA collections, for annotating them, and for searching
+them (by text or by example). The repertoire for the initial version of the music scholars’ pilot will
+mainly comprise early music from the 16th century from different resources. As the project
+progresses, we shall provide facilities for digital enquiries by making the search API publicly available
+and publishing the bulk of data collected in TROMPA as a public linked open data dataset.
+In the Orchestras Pilot will aim to digitize all symphonies by Gustav Mahler, a core repertoire of
+most orchestras, making them available free of charge. TROMPA will develop crowdsourcing
+technology to engage music lovers in encoding (out of copyright) scores available as digitized score
+images from IMSLP. Using RCO orchestra members’ and librarians’ expertise, we will develop a tool
+to extract good quality instrumental parts from these scores. The technological and technical
+requirements of the orchestras use case is twofold. Firstly, scanned score image analysis software in
+conjunction with crowd-sourced annotation mechanisms will be deployed in order to encode
+Mahler's music scores in digital format (MEI, or MusicXML). The second technical requirement is the
+capability of annotating music scores and share annotations. All the digitized score encodings of the
+Mahler Symphonies that will be derived from the use case will be deposited in public domain musical
+archives. Moreover RCO will offer its most recent annotations of one of the Mahler symphonies for
+digitization, as well as other archives such as annotated orchestral scores of Willem Mengelberg and
+a big part of the available Mengelberg Concertgebouw recordings.
+The Instrument Players Pilot provides musicians engaging in rehearsal or performance with a
+“Performance Companion” system capable of characterising performative aspects of their playing.
+By alignment of performance recordings and metadata with musical score encodings, the
+characteristics can be assessed and compared against those derived from other performances or
+reference recordings. Initially, the pilot will focus on pianists performing Beethoven’s piano works
+(primarily his Sonatas, Variation works, and Concertos). Performance recordings and
+characterizations produced by the Performance Companion will be captured and published,
+contributing to the available repertoire of Beethoven recordings. We will work towards producing a
+complete set of Beethoven piano work encodings over the course of the project. The technological
+components required for this system can be split into two groups: score alignment and performance
+characterisation. Score encodings created for the pilot will be made publicly available. Score
+segmentations, created manually and automatically as part of the score alignment task, will be
+associated with these encodings and published under open licenses. Finally, performance metadata
+and recordings (with performer permission) will be made publicly available.
+The goal of the Choir Singers Pilot is to assist amateur choir singers during individual
+performance and to provide functionality for the choir conductor to create repertoires and to listen
+to performances by choir members. Users of the pilot will be able to synthesize existing scores,
+sing-along with the synthesized voices, and receive feedback on their performance. The
+accompanying voices will be available for music in Spanish, Catalan, Latin, English and German, and
+the pilot will then focus on pieces in these languages from the repertoires considered below. A set of
+selected pieces is provided for the first iteration of the pilot, and several composers are selected as
+representative of the target languages: Tomás Luis de Victoria, Anton Bruckner and Josquin des Prez.
+This pilot will be mostly based on the audio processing techniques to be developed in Task 3.3,
+where we will research and develop techniques for audio synthesis of choir singing. The pilot will
+collect data from users to improve the voice synthesis algorithms. Users should be able to provide
+general ratings for the synthesis (e.g. by rating the overall quality of the synthesis) and to make
+timestamped annotations for the generated material, i.e., allowing the user to input free text
+comments to inform about specific problems (e.g. “this phoneme sounds weird at this point in time in the soprano voice”). Through the use of the pilot, synthesized versions of the scores will be
+generated and stored, accessible through public URLs. These synthesized versions will be associated
+to the scores. The same applies for recordings of performances by users of the pilot (needed for
+providing automatic feedback), although in this case, their addition to the repertoire will depend on
+getting appropriate permission from the user.
+In the Music Enthusiasts Pilot we will provide interaction mechanisms with musical cultural
+heritage content targeted at people that, although lacking formal musical knowledge, are interest in
+learning more about music. The main study of this use case is to build a music recommendation
+system, focused on classical music, with the possibility of integrating user feedback and annotations
+of the content The music enthusiasts use case will be focused on the existing music collection of CDR
+Muziekweb. We will focus on classical music repertoire of this library, but we will not limit ourselves
+to that. Techniques on higher level semantics extraction, such as emotion classification,will be
+adopted and evaluated during the use case (Deliverable 3.2). This use case will contribute new
+evaluation and ground truth data on the CDR repository, e.g. opinions/ratings about the outcome of
+a recommendation system, emotion tags and other annotations of music pieces.
+The target repertoires for these user pilots come from many separate repositories and may have
+diverse representation schemas. We will store metadata from each target repository in the WP5
+TROMPA Contributor Environment (CE) and we will link representations the same item in different
+repositories to each other so that information about the these items can be shared regardless of
+where that information comes from. Additionally, we will import metadata from MusicBrainz for all
+musical content in the CE, linking this data where possible to the metadata from each target
+repository. Where possible, if the metadata does not yet exist in MusicBrainz, we will add it, allowing
+us to contribute feely available metadata. The internal data model of the CE is a subtree of the
+schema.org ontology schema and all data and metadata items that will be stored in the CE will be
+mapped on this schema. The consortium is currently developing guidelines that describe how
+metadata from external repositories can be imported into the CE, and how this data can be
+interlinked within the CE. These guidelines are in development and will remain in step with project
+advances and requirements. The CE is designed to store only the metadata for the repertoires that
+are to be used in TROMPA plus any content produced by TROMPA, new or derived from these
+repertoires. Any content that the metadata describes (scores, music recordings, the results of
+computational algorithms) will remain stored in external locations. As part of this stored metadata,
+publically available URL will refer to the location where this content can be obtained from. We
+provide a tool to automatically import metadata from MusicBrainz to the CE. This tool is under
+development, but it is anticipated to include release, recording, work (movement and overall work),
+composer, and performer information if it is present in MusicBrainz.},
+  year = {2019},
+  issn = {TR-D3.1-Data Resource Preparation v1},
+  url = {https://trompamusic.eu/deliverables/TR-D3.1-Data_Resource_Preparation_v1.pdf},
+}

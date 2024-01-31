@@ -1,0 +1,9 @@
+@misc{18,
+  author = {Wim Klerkx and Bauke Freiburg and Christiaan Scheermeijer and Roy Schut and Alastair Porter and David Weigl},
+  title = {Technical Requirements and Integration},
+  abstract = {The first version of this deliverable started out as the technical requirements and integration report for the TROMPA project and specified the strategies for technical integration of data, technologies and end-user applications. The initial version set the integration guidelines to be followed during the project. An intermediate version was made publicly available outside the TROMPA consortium at M30 as a reference companion to the D5.1-2 - Data Infrastructure deliverable. The third version has been updated at the M35 milestone to reflect the latest and final version of the TROMPA Contributor Environment. 
+This document is written for a technical audience and provides practical information and guidelines for developers and researchers on how to integrate with the Contributor Environment (CE). The objective of this document is that third parties with little background information on the project understand how they can integrate with the CE, based on this technical documentation.  
+},
+  year = {2021},
+  url = {https://trompamusic.eu/deliverables/TR-D2.3-Technical_Requirements_and_Integration_v2.pdf},
+}

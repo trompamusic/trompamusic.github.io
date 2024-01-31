@@ -1,0 +1,8 @@
+@misc{17,
+  author = {Vladimir Viro and David Weigl and Patricia Santos and Nicolas Gutierrez and Álvaro Sarasúa and Marcel van Tilburg and Tim Crawford and Jan Hajic jr},
+  title = {Complete requirements},
+  abstract = {In this document we have collected the technical and non-technical requirements of the five pilots (targeting music scholars, orchestras, performers, choirs and music enthusiasts) that the consortium has converged upon after evaluating the initial user feedback and the technical challenges and opportunities for innovation. In order to make the origins of the requirements clear, for each pilot we have presented a user story that strives to capture the essence of and the benefits that the pilot provides to the users, while simultaneously touching on functionality that necessitates the requirements presented later. 
+},
+  year = {2019},
+  url = {Deliverable visible to Consortium only},
+}

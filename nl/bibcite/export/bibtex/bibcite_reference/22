@@ -1,0 +1,9 @@
+@misc{22,
+  author = {Ingmar Vroomen and Casper Karreman and Cynthia Liem},
+  title = {Multimodal Cross-linking},
+  abstract = {This document presents the work done for Deliverable 3.6, Multimodal cross-linking, within Work Package 3, Automated Music Data Processing And Linking. Improved cross-linking of multimodal music resources is valuable to allow for more complete, more diverse and better contextualized entrances to music resources. As such, it is of direct interest to TROMPA’s project missions.
+This deliverable focuses on how music collections can be enriched by automatically linking them to other (public domain) sources, how the automated linking process can be improved to give a higher confidence rating and expand the number of links and Wikidata can be deployed to verify matching results. For this, the CDR music collection will be the starting point, and a majority of the discussion focuses on how enrichment has internally been handled at CDR, in relation to TROMPA’s interest in connections to online public-domain resources. 
+},
+  year = {2020},
+  url = {This deliverable is confidential to the consortium only},
+}

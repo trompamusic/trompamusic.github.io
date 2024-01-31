@@ -1,0 +1,14 @@
+TY - RPRT
+AU - Tim Crawford
+AU - David Baker
+AU - Federico Zubani
+AU - Alastair Porter
+AU - David Weigl
+AB - The main entry point to TROMPA for Music Scholars is the Digital Score Edition (DSE)  component (see Deliverable 5.2), which has a role at various points within TROMPA. This gives access to TROMPA scores and other resources for display and interaction of various kinds (including playback of audio and video recordings). Users are able to search for works within the Contributor Environment via faceted metadata search, and visually display encoded scores stored as MEI files. The DSE offers normal functions for display, such as scroll and zoom, and for navigation, such as next/previous page commands.
+
+N2 - The main entry point to TROMPA for Music Scholars is the Digital Score Edition (DSE)  component (see Deliverable 5.2), which has a role at various points within TROMPA. This gives access to TROMPA scores and other resources for display and interaction of various kinds (including playback of audio and video recordings). Users are able to search for works within the Contributor Environment via faceted metadata search, and visually display encoded scores stored as MEI files. The DSE offers normal functions for display, such as scroll and zoom, and for navigation, such as next/previous page commands.
+
+PY - 2021
+TI - Deliverable 6.3 - Working Prototype for scholars
+UR - https://trompamusic.eu/deliverables/TR-D6.3-Working_Prototype_for_Music_Scholars_v2.pdf
+ER - 

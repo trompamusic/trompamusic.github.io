@@ -1,0 +1,8 @@
+@misc{27,
+  author = {Vladimir Viro and Tim Crawford and Jordi Janer and Patricia Rodriguez and Nicolas Paez and Cynthia Liem and David Weigl and David Linssen},
+  title = {Deliverable 7.3 - Annual Exploitation Plan},
+  abstract = {In this document, we report on the revised exploitation plans and outcomes based on what we have learned and developed over the last twelve months of the project. Our main focus  was on refining the pilot implementations and exploring commercial and non-commercial exploitation avenues for the use cases that TROMPA is addressing. 
+},
+  year = {2021},
+  url = {This deliverable is confidential to the consortium only},
+}

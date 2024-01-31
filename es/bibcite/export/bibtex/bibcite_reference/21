@@ -1,0 +1,8 @@
+@misc{21,
+  author = {David Weigl},
+  title = {Multimodal Music Information Alignment},
+  abstract = {The alignment of multimodal musical resources, for unified exploration, discovery, and retrieval, represents an important priority in enriching digital music archives. In this document, we provide a description of various types of information resource subject to potential alignment within TROMPA; detail a number of candidate algorithms to perform alignment activities; and present a data model that provides a framework for the application of alignment outcomes in TROMPA use cases. We also present a set of initial resources subject to proposed alignment in future development of this deliverable, comprising Beethoven piano compositions, and early Spanish choral works. 
+},
+  year = {2020},
+  url = {https://trompamusic.eu/deliverables/TR-D3.5-Multimodal_Music_Information_Alignment_v2.pdf},
+}

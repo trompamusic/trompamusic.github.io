@@ -1,0 +1,16 @@
+TY - RPRT
+AU - Álvaro Sarasúa
+AU - Óscar Mayor
+AU - Jordi Janer
+AU - Clara Ibarz
+AU - Pritish Chandna
+AB - This document presents the work performed for Task 3.3, Audio processing, within Work Package 3. In this Task, we have developed techniques for audio synthesis, using existing synthesizers and devoting efforts to provide natural singing voice synthesis for the choir pilot study with multi-lingual support. In addition, we consider sound emphasis techniques, based on sound source separation, so that users can focus their attention to different voices of the ensemble, orchestra, or choir.
+The main goals for this task were in this context to improve the state-of-the-art technologies for choir singing synthesis with multi-lingual support and to make them available for integration in the aforementioned Choir Singers Pilot. This involved creating a new dataset of annotated choir singer recordings, and creating new voice models. At the same time, we updated existing tools such as Voctro Labs’ Voiceful Editor, to support the whole process.
+
+N2 - This document presents the work performed for Task 3.3, Audio processing, within Work Package 3. In this Task, we have developed techniques for audio synthesis, using existing synthesizers and devoting efforts to provide natural singing voice synthesis for the choir pilot study with multi-lingual support. In addition, we consider sound emphasis techniques, based on sound source separation, so that users can focus their attention to different voices of the ensemble, orchestra, or choir.
+The main goals for this task were in this context to improve the state-of-the-art technologies for choir singing synthesis with multi-lingual support and to make them available for integration in the aforementioned Choir Singers Pilot. This involved creating a new dataset of annotated choir singer recordings, and creating new voice models. At the same time, we updated existing tools such as Voctro Labs’ Voiceful Editor, to support the whole process.
+
+PY - 2020
+TI - Audio Processing
+UR - This deliverable is confidential to the consortium
+ER - 

@@ -1,0 +1,31 @@
+TY - RPRT
+AU - Vladimir Viro
+AU - Natalia Barsova
+AU - Tim Crawford
+AU - David Weigl
+AU - Cynthia Liem
+AU - Nicolás Páez
+AU - Patricia Santos
+AU - Álvaro Sarasúa
+AB - The Trompa project strives to create systems for multiple audiences, involving these audiences during
+the planning, soliciting their feedback during the iterative refinement and feature delivery process, as
+well as inviting them to contribute their musical knowledge using the created systems. The early
+requirements planning concerns itself with the first part – soliciting user feedback for the first version of
+use cases developed by TROMPA. This deliverable comprises the requirements elicitation methodology,
+the resulting application scenarios and user stories and high-level functional/non-functional
+requirements that are based on application scenarios and user stories developed in the tasks T2.1 and
+T2.2. Deliverables D5.1 and D4.2 draw upon the functional requirements and application scenarios
+covered in this deliverable, as well as, naturally, most other following deliverables.
+N2 - The Trompa project strives to create systems for multiple audiences, involving these audiences during
+the planning, soliciting their feedback during the iterative refinement and feature delivery process, as
+well as inviting them to contribute their musical knowledge using the created systems. The early
+requirements planning concerns itself with the first part – soliciting user feedback for the first version of
+use cases developed by TROMPA. This deliverable comprises the requirements elicitation methodology,
+the resulting application scenarios and user stories and high-level functional/non-functional
+requirements that are based on application scenarios and user stories developed in the tasks T2.1 and
+T2.2. Deliverables D5.1 and D4.2 draw upon the functional requirements and application scenarios
+covered in this deliverable, as well as, naturally, most other following deliverables.
+PY - 2018
+TI - Early requirements
+UR - https://trompamusic.eu/deliverables/TR-D2.1-Early_Requirements.pdf
+ER - 

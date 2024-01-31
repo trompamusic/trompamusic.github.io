@@ -1,0 +1,16 @@
+TY - RPRT
+AU - Nicolás Gutiérrez
+AU - Patricia Rodriguez
+AU - Davinia Hernández-Leo
+AB - In this deliverable, the first version of the TROMPA model for incentivisation of crowds is complemented with the definition of the incentive recommendation model and the engagement model. The incentive recommendation model takes as input all the information regarding the motivations of the users (motivation model), including the users’ profile and the use case descriptions, as well as the description of the crowdsourcing environment (tasks, roles, etc.) and the user behavior within the different pilots. Based on this information, the incentive recommendation model is able to dynamically adjust the recommendations for incentive mechanisms and reward systems. The incentive recommendation model will define a set of Participant types to describe the potential contributors, and suggested incentive mechanisms and reward/systems for each participant type.
+
+The second version of the TROMPA model for incentivisation of crowds is based on different theories of motivations and human behavior. Rather than a static set of incentive mechanisms, this model will provide guidelines in order to define and analyse incentives and rewards in a more systematic approach, which in turn will provide insights into the behavior of different kinds of volunteers for annotating musical resources. Within the different use cases, researchers will be able to take more accurate design decisions based on their relevant particularities.
+
+N2 - In this deliverable, the first version of the TROMPA model for incentivisation of crowds is complemented with the definition of the incentive recommendation model and the engagement model. The incentive recommendation model takes as input all the information regarding the motivations of the users (motivation model), including the users’ profile and the use case descriptions, as well as the description of the crowdsourcing environment (tasks, roles, etc.) and the user behavior within the different pilots. Based on this information, the incentive recommendation model is able to dynamically adjust the recommendations for incentive mechanisms and reward systems. The incentive recommendation model will define a set of Participant types to describe the potential contributors, and suggested incentive mechanisms and reward/systems for each participant type.
+
+The second version of the TROMPA model for incentivisation of crowds is based on different theories of motivations and human behavior. Rather than a static set of incentive mechanisms, this model will provide guidelines in order to define and analyse incentives and rewards in a more systematic approach, which in turn will provide insights into the behavior of different kinds of volunteers for annotating musical resources. Within the different use cases, researchers will be able to take more accurate design decisions based on their relevant particularities.
+
+PY - 2019
+TI - Deliverable 4.3 - Crowd Incentivisation Mechanisms
+UR - This deliverable is confidential to the consortium only
+ER - 

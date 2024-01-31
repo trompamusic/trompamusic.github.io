@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/content-owners">
+  <channel>
+    <title>Content owners</title>
+    <link>http://trompamusic.eu/content-owners</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Orchestra workshops about score digitisation</title>
+  <link>http://trompamusic.eu/node/124</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Orchestra workshops about score digitisation&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/6" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Cynthia Liem&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-11-26T17:10:16+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 11/26/2020 - 18:10&lt;/span&gt;
+</description>
+  <pubDate>Thu, 26 Nov 2020 17:10:16 +0000</pubDate>
+    <dc:creator>Cynthia Liem</dc:creator>
+    <guid isPermaLink="false">124 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>Update Orchestras/Content Owners Use Case </title>
+  <link>http://trompamusic.eu/node/108</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Update Orchestras/Content Owners Use Case &lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/102" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Marcel van Tilburg&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-02-19T16:09:16+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 02/19/2020 - 17:09&lt;/span&gt;
+</description>
+  <pubDate>Wed, 19 Feb 2020 16:09:16 +0000</pubDate>
+    <dc:creator>Marcel van Tilburg</dc:creator>
+    <guid isPermaLink="false">108 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/108#comments</comments>
+    </item>
+<item>
+  <title>Content owners</title>
+  <link>http://trompamusic.eu/node/56</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Content owners&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/8" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Stephan Bosma&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-06-27T12:30:43+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/27/2018 - 14:30&lt;/span&gt;
+</description>
+  <pubDate>Wed, 27 Jun 2018 12:30:43 +0000</pubDate>
+    <dc:creator>Stephan Bosma</dc:creator>
+    <guid isPermaLink="false">56 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/56#comments</comments>
+    </item>
+
+  </channel>
+</rss>

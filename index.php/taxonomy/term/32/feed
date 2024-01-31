@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/index.php/taxonomy/term/32">
+  <channel>
+    <title>Music Information retrieval</title>
+    <link>http://trompamusic.eu/index.php/taxonomy/term/32</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Call for partecipation: Survey "Diversity in Electronic Music"</title>
+  <link>http://trompamusic.eu/index.php/node/115</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Call for partecipation: Survey "Diversity in Electronic Music"&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/86" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Lorenzo Porcaro&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-08-28T09:34:52+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/28/2020 - 11:34&lt;/span&gt;
+</description>
+  <pubDate>Fri, 28 Aug 2020 09:34:52 +0000</pubDate>
+    <dc:creator>Lorenzo Porcaro</dc:creator>
+    <guid isPermaLink="false">115 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/115#comments</comments>
+    </item>
+<item>
+  <title>First Annual TROMPA workshop for Music Scholars</title>
+  <link>http://trompamusic.eu/index.php/node/94</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;First Annual TROMPA workshop for Music Scholars&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/22" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Tim Crawford&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-03-18T09:29:22+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 03/18/2019 - 10:29&lt;/span&gt;
+</description>
+  <pubDate>Mon, 18 Mar 2019 09:29:22 +0000</pubDate>
+    <dc:creator>Tim Crawford</dc:creator>
+    <guid isPermaLink="false">94 at http://trompamusic.eu</guid>
+    </item>
+
+  </channel>
+</rss>

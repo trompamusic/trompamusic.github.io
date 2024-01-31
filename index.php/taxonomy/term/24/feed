@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/index.php/taxonomy/term/24">
+  <channel>
+    <title>TROMPA</title>
+    <link>http://trompamusic.eu/index.php/taxonomy/term/24</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>We launch the latest music anotation campaing with music recommendations for participants</title>
+  <link>http://trompamusic.eu/index.php/node/131</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;We launch the latest music anotation campaing with music recommendations for participants&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/103" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Maria Pilar&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-02-03T07:36:10+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 02/03/2021 - 08:36&lt;/span&gt;
+</description>
+  <pubDate>Wed, 03 Feb 2021 07:36:10 +0000</pubDate>
+    <dc:creator>Maria Pilar</dc:creator>
+    <guid isPermaLink="false">131 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>THE VOCAL QUARTET CANTORÍA WILL INTEGRATE ITS VOCAL POLIPHONY FROM THE IBERIAN GOLDEN AGE REPERTOIRE IN TROMPA CHOIR USE CASE</title>
+  <link>http://trompamusic.eu/index.php/node/122</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;THE VOCAL QUARTET CANTORÍA WILL INTEGRATE ITS VOCAL POLIPHONY FROM THE IBERIAN GOLDEN AGE REPERTOIRE IN TROMPA CHOIR USE CASE&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/103" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Maria Pilar&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-11-11T14:15:06+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/11/2020 - 15:15&lt;/span&gt;
+</description>
+  <pubDate>Wed, 11 Nov 2020 14:15:06 +0000</pubDate>
+    <dc:creator>Maria Pilar</dc:creator>
+    <guid isPermaLink="false">122 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/122#comments</comments>
+    </item>
+<item>
+  <title> Key software components published after 2-day technical meetup</title>
+  <link>http://trompamusic.eu/index.php/node/104</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt; Key software components published after 2-day technical meetup&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/100" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David Linssen&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-01-30T16:49:27+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 01/30/2020 - 17:49&lt;/span&gt;
+</description>
+  <pubDate>Thu, 30 Jan 2020 16:49:27 +0000</pubDate>
+    <dc:creator>David Linssen</dc:creator>
+    <guid isPermaLink="false">104 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>TROMPA at winterLAB, meeting on community and the critical use of technology</title>
+  <link>http://trompamusic.eu/index.php/node/103</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at winterLAB, meeting on community and the critical use of technology&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/99" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Alvaro Sarasua&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-12-05T13:01:13+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 12/05/2019 - 14:01&lt;/span&gt;
+</description>
+  <pubDate>Thu, 05 Dec 2019 13:01:13 +0000</pubDate>
+    <dc:creator>Alvaro Sarasua</dc:creator>
+    <guid isPermaLink="false">103 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>TROMPA at winterLAB, meeting on community and the critical use of technology</title>
+  <link>http://trompamusic.eu/index.php/node/102</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at winterLAB, meeting on community and the critical use of technology&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/99" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Alvaro Sarasua&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-12-05T12:58:41+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 12/05/2019 - 13:58&lt;/span&gt;
+</description>
+  <pubDate>Thu, 05 Dec 2019 12:58:41 +0000</pubDate>
+    <dc:creator>Alvaro Sarasua</dc:creator>
+    <guid isPermaLink="false">102 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>First Annual TROMPA workshop for Music Scholars</title>
+  <link>http://trompamusic.eu/index.php/node/94</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;First Annual TROMPA workshop for Music Scholars&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/22" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Tim Crawford&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-03-18T09:29:22+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 03/18/2019 - 10:29&lt;/span&gt;
+</description>
+  <pubDate>Mon, 18 Mar 2019 09:29:22 +0000</pubDate>
+    <dc:creator>Tim Crawford</dc:creator>
+    <guid isPermaLink="false">94 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>TROMPA at the Web Audio Conference, Berlin 2018</title>
+  <link>http://trompamusic.eu/index.php/node/83</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at the Web Audio Conference, Berlin 2018&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/36" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Oscar Mayor&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-10-04T11:45:04+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 10/04/2018 - 13:45&lt;/span&gt;
+</description>
+  <pubDate>Thu, 04 Oct 2018 11:45:04 +0000</pubDate>
+    <dc:creator>Oscar Mayor</dc:creator>
+    <guid isPermaLink="false">83 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/83#comments</comments>
+    </item>
+
+  </channel>
+</rss>

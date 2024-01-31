@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/music-enthusiasts">
+  <channel>
+    <title>Music enthusiasts</title>
+    <link>http://trompamusic.eu/music-enthusiasts</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Second online annotation contest released with new prizes!</title>
+  <link>http://trompamusic.eu/node/117</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Second online annotation contest released with new prizes!&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/101" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nicolas Gutierrez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-10-13T13:05:29+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 10/13/2020 - 15:05&lt;/span&gt;
+</description>
+  <pubDate>Tue, 13 Oct 2020 13:05:29 +0000</pubDate>
+    <dc:creator>Nicolas Gutierrez</dc:creator>
+    <guid isPermaLink="false">117 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/117#comments</comments>
+    </item>
+<item>
+  <title>Call for partecipation: Survey "Diversity in Electronic Music"</title>
+  <link>http://trompamusic.eu/node/115</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Call for partecipation: Survey "Diversity in Electronic Music"&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/86" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Lorenzo Porcaro&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-08-28T09:34:52+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/28/2020 - 11:34&lt;/span&gt;
+</description>
+  <pubDate>Fri, 28 Aug 2020 09:34:52 +0000</pubDate>
+    <dc:creator>Lorenzo Porcaro</dc:creator>
+    <guid isPermaLink="false">115 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/115#comments</comments>
+    </item>
+<item>
+  <title>New TROMPA annotation campaign for emotions in music</title>
+  <link>http://trompamusic.eu/node/114</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;New TROMPA annotation campaign for emotions in music&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/98" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Juan Sebastian Gomez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-06-30T07:09:07+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/30/2020 - 09:09&lt;/span&gt;
+</description>
+  <pubDate>Tue, 30 Jun 2020 07:09:07 +0000</pubDate>
+    <dc:creator>Juan Sebastian Gomez</dc:creator>
+    <guid isPermaLink="false">114 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>Music Enthusiasts working pilot released!</title>
+  <link>http://trompamusic.eu/node/112</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Music Enthusiasts working pilot released!&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/101" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nicolas Gutierrez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-04-06T10:42:29+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 04/06/2020 - 12:42&lt;/span&gt;
+</description>
+  <pubDate>Mon, 06 Apr 2020 10:42:29 +0000</pubDate>
+    <dc:creator>Nicolas Gutierrez</dc:creator>
+    <guid isPermaLink="false">112 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/112#comments</comments>
+    </item>
+<item>
+  <title>TROMPA pilot for Music Enthusiasts will be available soon!</title>
+  <link>http://trompamusic.eu/node/107</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA pilot for Music Enthusiasts will be available soon!&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/101" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nicolas Gutierrez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-02-19T07:12:32+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 02/19/2020 - 08:12&lt;/span&gt;
+</description>
+  <pubDate>Wed, 19 Feb 2020 07:12:32 +0000</pubDate>
+    <dc:creator>Nicolas Gutierrez</dc:creator>
+    <guid isPermaLink="false">107 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/107#comments</comments>
+    </item>
+<item>
+  <title>TROMPA @ Workshop-Symposium in Methods for Music and Emotion</title>
+  <link>http://trompamusic.eu/node/101</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA @ Workshop-Symposium in Methods for Music and Emotion&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/98" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Juan Sebastian Gomez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-10-30T08:49:19+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 10/30/2019 - 09:49&lt;/span&gt;
+</description>
+  <pubDate>Wed, 30 Oct 2019 08:49:19 +0000</pubDate>
+    <dc:creator>Juan Sebastian Gomez</dc:creator>
+    <guid isPermaLink="false">101 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/101#comments</comments>
+    </item>
+<item>
+  <title>TROMPA at RecSys 2019</title>
+  <link>http://trompamusic.eu/node/100</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at RecSys 2019&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/86" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Lorenzo Porcaro&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-10-03T10:05:15+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 10/03/2019 - 12:05&lt;/span&gt;
+</description>
+  <pubDate>Thu, 03 Oct 2019 10:05:15 +0000</pubDate>
+    <dc:creator>Lorenzo Porcaro</dc:creator>
+    <guid isPermaLink="false">100 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/100#comments</comments>
+    </item>
+<item>
+  <title>TROMPA at CICLing 2019</title>
+  <link>http://trompamusic.eu/node/95</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at CICLing 2019&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/86" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Lorenzo Porcaro&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-04-16T08:47:53+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 04/16/2019 - 10:47&lt;/span&gt;
+</description>
+  <pubDate>Tue, 16 Apr 2019 08:47:53 +0000</pubDate>
+    <dc:creator>Lorenzo Porcaro</dc:creator>
+    <guid isPermaLink="false">95 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/node/95#comments</comments>
+    </item>
+<item>
+  <title>Music enthusiasts</title>
+  <link>http://trompamusic.eu/node/52</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Music enthusiasts&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/8" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Stephan Bosma&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-06-27T11:53:20+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/27/2018 - 13:53&lt;/span&gt;
+</description>
+  <pubDate>Wed, 27 Jun 2018 11:53:20 +0000</pubDate>
+    <dc:creator>Stephan Bosma</dc:creator>
+    <guid isPermaLink="false">52 at http://trompamusic.eu</guid>
+    </item>
+
+  </channel>
+</rss>

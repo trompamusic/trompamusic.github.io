@@ -1,0 +1,11 @@
+TY - RPRT
+AU - David Weigl
+AU - Werner Goebl
+AB - Deliverable 6.5, the working prototype for instrumental players, is implemented in TROMPA’s Companion for Long-term Analyses of Rehearsal Attempts (CLARA). This web application enables users to review and analyse rehearsal renditions (MIDI streams and associated audiovisual recordings) by reference to a musical score rendering, using the score as both a meaningful music representation and an index into a rehearsal timeline. The application is capable of visualising fine-grained performative aspects including tempo curves and performance dynamics (MIDI velocities), both for individual performance renditions and across renditions, and it facilitates navigation to corresponding sections of different renditions, facilitating comparisons between rehearsal attempts. 
+
+N2 - Deliverable 6.5, the working prototype for instrumental players, is implemented in TROMPA’s Companion for Long-term Analyses of Rehearsal Attempts (CLARA). This web application enables users to review and analyse rehearsal renditions (MIDI streams and associated audiovisual recordings) by reference to a musical score rendering, using the score as both a meaningful music representation and an index into a rehearsal timeline. The application is capable of visualising fine-grained performative aspects including tempo curves and performance dynamics (MIDI velocities), both for individual performance renditions and across renditions, and it facilitates navigation to corresponding sections of different renditions, facilitating comparisons between rehearsal attempts. 
+
+PY - 2021
+TI - Deliverable 6.5 - Working Prototype for Instrument Players
+UR - https://trompamusic.eu/deliverables/TR-D6.5-Working_Prototype_for_Instrument_Players_v2.pdf
+ER - 

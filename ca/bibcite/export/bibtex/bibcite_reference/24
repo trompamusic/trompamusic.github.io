@@ -1,0 +1,8 @@
+@misc{24,
+  author = {Ioannis Samiotis and Christoph Lofi and Alessandro Bozzon and Cynthia Liem and Julian Urbano and Geert-Jan Houben},
+  title = {Annotator Properties and Metrics},
+  abstract = {In the 1st version of this deliverable, we defined a comprehensive model able to cater for all the aspects relevant for the TROMPA Contributor Environment. These included the representation of properties of TROMPA users, especially in terms of their competences and expertise; they relationship in the context of online social environments; and their role of content annotators for the production of Annotations.
+In the 2nd version, we implement the proposed models on users that are part of hybrid annotation workflows by suggesting metrics to measure users’ properties and study the properties of users that are part of a Hybrid Optical Music Recognition pipeline and of those who are part of online discussions about Classical Music. More specifically, we showcase the benefits of the General Music Sophistication Index [MGSM14] as a way to express a user’s musical capabilities and we connect to the work of other TROMPA partners on performance assessment on Instrumentalists and Choir Singers, to show how to capture Competence of a user to execute a music-related crowdsourcing task. Later, we instantiate the Human Computation and Action models in a Hybrid Optical Music Recognition pipeline to explain the crowd computing aspect of it. Lastly, we show how users on YouTube generate Classical Music information and we study their properties and discussions to understand the potential of Knowledge Extraction related to Classical Music. },
+  year = {2019},
+  url = {This deliverable is confidential to the consortium only},
+}

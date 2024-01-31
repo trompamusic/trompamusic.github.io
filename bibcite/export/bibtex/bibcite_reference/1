@@ -1,0 +1,10 @@
+@misc{1,
+  author = {Wim Klerkx and David Weigl and Álvaro Sarasúa and Werner Goebl and Tim Crawford and Aggelos Gkiokas and Ioannis Petros Samiotis and Vladimir Viro and Nicolás Felipe Gutiérrez Páez},
+  title = {Deliverable 5.1 Data Infrastructure - V1},
+  abstract = {This document describes the Data Infrastructure, which plays a central role in the TROMPA project. It
+will be a web-based platform where the efforts of all participants, partners and contributors come
+together, and where their results are to be made accessible to the public to engage with.},
+  year = {2018},
+  issn = {TR-D5.1-Data Infrastructure v1},
+  url = {https://trompamusic.eu/deliverables/TR-D5.1-Data_Infrastructure_v1.pdf},
+}

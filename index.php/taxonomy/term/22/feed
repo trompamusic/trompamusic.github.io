@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/index.php/taxonomy/term/22">
+  <channel>
+    <title>Voctro Labs</title>
+    <link>http://trompamusic.eu/index.php/taxonomy/term/22</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>The TROMPA pilot for singers, about to be ready for choirs</title>
+  <link>http://trompamusic.eu/index.php/node/105</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;The TROMPA pilot for singers, about to be ready for choirs&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/99" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Alvaro Sarasua&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-02-17T17:26:34+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 02/17/2020 - 18:26&lt;/span&gt;
+</description>
+  <pubDate>Mon, 17 Feb 2020 17:26:34 +0000</pubDate>
+    <dc:creator>Alvaro Sarasua</dc:creator>
+    <guid isPermaLink="false">105 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>TROMPA at winterLAB, meeting on community and the critical use of technology</title>
+  <link>http://trompamusic.eu/index.php/node/103</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at winterLAB, meeting on community and the critical use of technology&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/99" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Alvaro Sarasua&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-12-05T13:01:13+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 12/05/2019 - 14:01&lt;/span&gt;
+</description>
+  <pubDate>Thu, 05 Dec 2019 13:01:13 +0000</pubDate>
+    <dc:creator>Alvaro Sarasua</dc:creator>
+    <guid isPermaLink="false">103 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/103#comments</comments>
+    </item>
+<item>
+  <title>TROMPA at winterLAB, meeting on community and the critical use of technology</title>
+  <link>http://trompamusic.eu/index.php/node/102</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at winterLAB, meeting on community and the critical use of technology&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/99" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Alvaro Sarasua&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-12-05T12:58:41+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 12/05/2019 - 13:58&lt;/span&gt;
+</description>
+  <pubDate>Thu, 05 Dec 2019 12:58:41 +0000</pubDate>
+    <dc:creator>Alvaro Sarasua</dc:creator>
+    <guid isPermaLink="false">102 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/102#comments</comments>
+    </item>
+<item>
+  <title>TROMPA at the Web Audio Conference, Berlin 2018</title>
+  <link>http://trompamusic.eu/index.php/node/83</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA at the Web Audio Conference, Berlin 2018&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/36" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Oscar Mayor&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-10-04T11:45:04+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 10/04/2018 - 13:45&lt;/span&gt;
+</description>
+  <pubDate>Thu, 04 Oct 2018 11:45:04 +0000</pubDate>
+    <dc:creator>Oscar Mayor</dc:creator>
+    <guid isPermaLink="false">83 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/83#comments</comments>
+    </item>
+
+  </channel>
+</rss>

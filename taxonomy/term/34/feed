@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/taxonomy/term/34">
+  <channel>
+    <title>Music annotation</title>
+    <link>http://trompamusic.eu/taxonomy/term/34</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Sharing Annotations of Scores and Sounds</title>
+  <link>http://trompamusic.eu/node/128</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Sharing Annotations of Scores and Sounds&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/105" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David Baker&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-11-27T14:46:29+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 11/27/2020 - 15:46&lt;/span&gt;
+</description>
+  <pubDate>Fri, 27 Nov 2020 14:46:29 +0000</pubDate>
+    <dc:creator>David Baker</dc:creator>
+    <guid isPermaLink="false">128 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>New TROMPA annotation campaign for emotions in music</title>
+  <link>http://trompamusic.eu/node/114</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;New TROMPA annotation campaign for emotions in music&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/98" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Juan Sebastian Gomez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-06-30T07:09:07+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/30/2020 - 09:09&lt;/span&gt;
+</description>
+  <pubDate>Tue, 30 Jun 2020 07:09:07 +0000</pubDate>
+    <dc:creator>Juan Sebastian Gomez</dc:creator>
+    <guid isPermaLink="false">114 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title> Key software components published after 2-day technical meetup</title>
+  <link>http://trompamusic.eu/node/104</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt; Key software components published after 2-day technical meetup&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/100" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David Linssen&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-01-30T16:49:27+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 01/30/2020 - 17:49&lt;/span&gt;
+</description>
+  <pubDate>Thu, 30 Jan 2020 16:49:27 +0000</pubDate>
+    <dc:creator>David Linssen</dc:creator>
+    <guid isPermaLink="false">104 at http://trompamusic.eu</guid>
+    </item>
+<item>
+  <title>First Annual TROMPA workshop for Music Scholars</title>
+  <link>http://trompamusic.eu/node/94</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;First Annual TROMPA workshop for Music Scholars&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/user/22" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Tim Crawford&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-03-18T09:29:22+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 03/18/2019 - 10:29&lt;/span&gt;
+</description>
+  <pubDate>Mon, 18 Mar 2019 09:29:22 +0000</pubDate>
+    <dc:creator>Tim Crawford</dc:creator>
+    <guid isPermaLink="false">94 at http://trompamusic.eu</guid>
+    </item>
+
+  </channel>
+</rss>

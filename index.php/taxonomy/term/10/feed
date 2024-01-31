@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/index.php/news">
+  <channel>
+    <title>News</title>
+    <link>http://trompamusic.eu/index.php/news</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>TROMPA ME Use case on the Gothenburg Symposium</title>
+  <link>http://trompamusic.eu/index.php/node/145</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA ME Use case on the Gothenburg Symposium&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/98" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Juan Sebastian Gomez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-05-21T13:28:53+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 05/21/2021 - 15:28&lt;/span&gt;
+</description>
+  <pubDate>Fri, 21 May 2021 13:28:53 +0000</pubDate>
+    <dc:creator>Juan Sebastian Gomez</dc:creator>
+    <guid isPermaLink="false">145 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/145#comments</comments>
+    </item>
+<item>
+  <title>MELD 2.0 Release Announcement</title>
+  <link>http://trompamusic.eu/index.php/node/144</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;MELD 2.0 Release Announcement&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/105" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David Baker&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-04-30T11:35:54+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 04/30/2021 - 13:35&lt;/span&gt;
+</description>
+  <pubDate>Fri, 30 Apr 2021 11:35:54 +0000</pubDate>
+    <dc:creator>David Baker</dc:creator>
+    <guid isPermaLink="false">144 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/144#comments</comments>
+    </item>
+<item>
+  <title>Towards Richer Online Music Public-domain Archives</title>
+  <link>http://trompamusic.eu/index.php/node/143</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Towards Richer Online Music Public-domain Archives&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/23" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Emilia Gomez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-04-26T07:39:29+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 04/26/2021 - 09:39&lt;/span&gt;
+</description>
+  <pubDate>Mon, 26 Apr 2021 07:39:29 +0000</pubDate>
+    <dc:creator>Emilia Gomez</dc:creator>
+    <guid isPermaLink="false">143 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/143#comments</comments>
+    </item>
+<item>
+  <title>The TROMPA project together with the vocal ensemble Cantoría and ESMUC organize a participatory choir singing concert</title>
+  <link>http://trompamusic.eu/index.php/choir-singers/cantoria-esmuc--concert</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;The TROMPA project together with the vocal ensemble Cantoría and ESMUC organize a participatory choir singing concert&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/23" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Emilia Gomez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-03-26T07:31:34+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 03/26/2021 - 08:31&lt;/span&gt;
+</description>
+  <pubDate>Fri, 26 Mar 2021 07:31:34 +0000</pubDate>
+    <dc:creator>Emilia Gomez</dc:creator>
+    <guid isPermaLink="false">142 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/choir-singers/cantoria-esmuc--concert#comments</comments>
+    </item>
+<item>
+  <title>We launch the latest music anotation campaing with music recommendations for participants</title>
+  <link>http://trompamusic.eu/index.php/node/131</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;We launch the latest music anotation campaing with music recommendations for participants&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/103" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Maria Pilar&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2021-02-03T07:36:10+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 02/03/2021 - 08:36&lt;/span&gt;
+</description>
+  <pubDate>Wed, 03 Feb 2021 07:36:10 +0000</pubDate>
+    <dc:creator>Maria Pilar</dc:creator>
+    <guid isPermaLink="false">131 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/131#comments</comments>
+    </item>
+<item>
+  <title>MELDfest 2020</title>
+  <link>http://trompamusic.eu/index.php/node/129</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;MELDfest 2020&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/105" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David Baker&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-12-01T11:44:17+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 12/01/2020 - 12:44&lt;/span&gt;
+</description>
+  <pubDate>Tue, 01 Dec 2020 11:44:17 +0000</pubDate>
+    <dc:creator>David Baker</dc:creator>
+    <guid isPermaLink="false">129 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/129#comments</comments>
+    </item>
+<item>
+  <title>Orchestra workshops about score digitisation</title>
+  <link>http://trompamusic.eu/index.php/node/124</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Orchestra workshops about score digitisation&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/6" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Cynthia Liem&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-11-26T17:10:16+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 11/26/2020 - 18:10&lt;/span&gt;
+</description>
+  <pubDate>Thu, 26 Nov 2020 17:10:16 +0000</pubDate>
+    <dc:creator>Cynthia Liem</dc:creator>
+    <guid isPermaLink="false">124 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/124#comments</comments>
+    </item>
+<item>
+  <title>THE VOCAL QUARTET CANTORÍA WILL INTEGRATE ITS VOCAL POLIPHONY FROM THE IBERIAN GOLDEN AGE REPERTOIRE IN TROMPA CHOIR USE CASE</title>
+  <link>http://trompamusic.eu/index.php/node/123</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;THE VOCAL QUARTET CANTORÍA WILL INTEGRATE ITS VOCAL POLIPHONY FROM THE IBERIAN GOLDEN AGE REPERTOIRE IN TROMPA CHOIR USE CASE&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/103" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Maria Pilar&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-11-11T14:30:57+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 11/11/2020 - 15:30&lt;/span&gt;
+</description>
+  <pubDate>Wed, 11 Nov 2020 14:30:57 +0000</pubDate>
+    <dc:creator>Maria Pilar</dc:creator>
+    <guid isPermaLink="false">123 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/123#comments</comments>
+    </item>
+<item>
+  <title>Second online annotation contest released with new prizes!</title>
+  <link>http://trompamusic.eu/index.php/node/117</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Second online annotation contest released with new prizes!&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/101" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Nicolas Gutierrez&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-10-13T13:05:29+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 10/13/2020 - 15:05&lt;/span&gt;
+</description>
+  <pubDate>Tue, 13 Oct 2020 13:05:29 +0000</pubDate>
+    <dc:creator>Nicolas Gutierrez</dc:creator>
+    <guid isPermaLink="false">117 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/117#comments</comments>
+    </item>
+<item>
+  <title>BUENA ACOGIDA DEL PILOTO PARA CORALES Y NUEVAS PROPUESTAS DE MEJORA </title>
+  <link>http://trompamusic.eu/index.php/es/node/113</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;GOOD PERCEPTION OF THE CHOIR SINGING PILOT AND IDEAS FOR IMPROVEMENT&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/103" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Maria Pilar&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-05-28T19:06:42+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 05/28/2020 - 21:06&lt;/span&gt;
+</description>
+  <pubDate>Thu, 28 May 2020 19:06:42 +0000</pubDate>
+    <dc:creator>Maria Pilar</dc:creator>
+    <guid isPermaLink="false">113 at http://trompamusic.eu</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://trompamusic.eu/index.php/music-scholars">
+  <channel>
+    <title>Music scholars</title>
+    <link>http://trompamusic.eu/index.php/music-scholars</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Sharing Annotations of Scores and Sounds</title>
+  <link>http://trompamusic.eu/index.php/node/128</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Sharing Annotations of Scores and Sounds&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/105" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;David Baker&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-11-27T14:46:29+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 11/27/2020 - 15:46&lt;/span&gt;
+</description>
+  <pubDate>Fri, 27 Nov 2020 14:46:29 +0000</pubDate>
+    <dc:creator>David Baker</dc:creator>
+    <guid isPermaLink="false">128 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/128#comments</comments>
+    </item>
+<item>
+  <title>TROMPA's first workshop for Music Scholars</title>
+  <link>http://trompamusic.eu/index.php/node/98</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;TROMPA's first workshop for Music Scholars&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/22" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Tim Crawford&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-06-17T11:00:13+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 06/17/2019 - 13:00&lt;/span&gt;
+</description>
+  <pubDate>Mon, 17 Jun 2019 11:00:13 +0000</pubDate>
+    <dc:creator>Tim Crawford</dc:creator>
+    <guid isPermaLink="false">98 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/98#comments</comments>
+    </item>
+<item>
+  <title>First Annual TROMPA workshop for Music Scholars</title>
+  <link>http://trompamusic.eu/index.php/node/94</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;First Annual TROMPA workshop for Music Scholars&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/22" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Tim Crawford&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-03-18T09:29:22+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 03/18/2019 - 10:29&lt;/span&gt;
+</description>
+  <pubDate>Mon, 18 Mar 2019 09:29:22 +0000</pubDate>
+    <dc:creator>Tim Crawford</dc:creator>
+    <guid isPermaLink="false">94 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/94#comments</comments>
+    </item>
+<item>
+  <title>Music scholars</title>
+  <link>http://trompamusic.eu/index.php/node/53</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Music scholars&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://trompamusic.eu/index.php/user/8" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Stephan Bosma&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-06-27T11:55:42+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/27/2018 - 13:55&lt;/span&gt;
+</description>
+  <pubDate>Wed, 27 Jun 2018 11:55:42 +0000</pubDate>
+    <dc:creator>Stephan Bosma</dc:creator>
+    <guid isPermaLink="false">53 at http://trompamusic.eu</guid>
+    <comments>http://trompamusic.eu/index.php/node/53#comments</comments>
+    </item>
+
+  </channel>
+</rss>

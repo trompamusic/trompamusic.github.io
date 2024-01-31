@@ -1,0 +1,67 @@
+TY - RPRT
+AU - Emilia Gomez
+AU - Cynthia Liem
+AU - Sonia Espi
+AU - Aggelos Gkiokas
+AU - Tim Crawford
+AU - David Weigl
+AB - Scores are used throughout TROMPA, and are an indispensable means of communicating and
+preserving the musical content of classical music works. Music notation evolved since about the
+tenth century and is universally understood by professional musicians, i.e. those most likely to
+generate the performances discussed and appreciated by their audiences. At the same time, it is not
+necessary to understand music notation to appreciate and enjoy classical music, so TROMPA does
+not expect its community of music-enthusiasts to read it, although many members of this
+community will be able to do so.
+Digital scores, either rendered from MEI encodings via the TROMPA Data Infrastructure, or from
+PDF or other graphic files representing physical library documents (such as the historic printed
+scores available via IMSLP, or the early music prints in EMO), will find extensive use throughout WPs
+3, 4, 5 & 6.
+The Digital Score Edition component of TROMPA is to a large extent based on the Music Encoding
+and Linked Data (MELD) [1] technology developed in prior projects FAST1 and Transforming
+Musicology2; this will be adapted and augmented for the specific purposes of TROMPA. It combines
+use of the Music Encoding Initiative (MEI) format for representing musical documents with a
+semantic approach tailored to the requirements of musicians and music scholars, using Linked Data.
+This document describes the essentials of the Digital Score Edition component and summarises
+how they will be put to use in various use-cases. It largely focuses on new elements being introduced
+for TROMPA, in particular, methods for user-contributed and automated annotations which preserve
+provenance and maintain user control; to a large extent this is ground-breaking work, so some
+research questions (see 1.2 Annotations and links) remain open.
+The Digital Score Edition component of TROMPA closely interacts with the Contributor
+Environment (WP5 - TROMPA Contributor Environment) via TROMPA’s Data Infrastructure (TR-D5.1-
+Data Infrastructure v1). We expect it to find use to a greater or lesser extent in the following Tasks:
+3.2 (Music description); 3.4 (Visual analysis of scores); 3.6 (Multimodal cross-linking); 5.3
+(Multimodal integration of music data); 5.4 (Music performance assessment mechanisms); 6.2 (Pilot
+for music scholars); 6.3 (Pilot for orchestras); 6.4 (Pilot for instrument players); 6.5 (Pilot for singers)
+N2 - Scores are used throughout TROMPA, and are an indispensable means of communicating and
+preserving the musical content of classical music works. Music notation evolved since about the
+tenth century and is universally understood by professional musicians, i.e. those most likely to
+generate the performances discussed and appreciated by their audiences. At the same time, it is not
+necessary to understand music notation to appreciate and enjoy classical music, so TROMPA does
+not expect its community of music-enthusiasts to read it, although many members of this
+community will be able to do so.
+Digital scores, either rendered from MEI encodings via the TROMPA Data Infrastructure, or from
+PDF or other graphic files representing physical library documents (such as the historic printed
+scores available via IMSLP, or the early music prints in EMO), will find extensive use throughout WPs
+3, 4, 5 & 6.
+The Digital Score Edition component of TROMPA is to a large extent based on the Music Encoding
+and Linked Data (MELD) [1] technology developed in prior projects FAST1 and Transforming
+Musicology2; this will be adapted and augmented for the specific purposes of TROMPA. It combines
+use of the Music Encoding Initiative (MEI) format for representing musical documents with a
+semantic approach tailored to the requirements of musicians and music scholars, using Linked Data.
+This document describes the essentials of the Digital Score Edition component and summarises
+how they will be put to use in various use-cases. It largely focuses on new elements being introduced
+for TROMPA, in particular, methods for user-contributed and automated annotations which preserve
+provenance and maintain user control; to a large extent this is ground-breaking work, so some
+research questions (see 1.2 Annotations and links) remain open.
+The Digital Score Edition component of TROMPA closely interacts with the Contributor
+Environment (WP5 - TROMPA Contributor Environment) via TROMPA’s Data Infrastructure (TR-D5.1-
+Data Infrastructure v1). We expect it to find use to a greater or lesser extent in the following Tasks:
+3.2 (Music description); 3.4 (Visual analysis of scores); 3.6 (Multimodal cross-linking); 5.3
+(Multimodal integration of music data); 5.4 (Music performance assessment mechanisms); 6.2 (Pilot
+for music scholars); 6.3 (Pilot for orchestras); 6.4 (Pilot for instrument players); 6.5 (Pilot for singers)
+PY - 2019
+ST - D5.2
+TI - Deliverable 5.2 Score Edition Component
+UR - https://trompamusic.eu/deliverables/TR-D5.2-Score_Edition_Component_v0.2.pdf
+SN - TR-D5.2-Score Edition Component v1
+ER - 

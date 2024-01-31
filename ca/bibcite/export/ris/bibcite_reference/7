@@ -1,0 +1,281 @@
+TY - RPRT
+AU - Aggelos Gkiokas
+AU - Emilia Gomez
+AU - Helena Cuesta
+AU - Olga Slizovskaia
+AU - Juan Gomez
+AU - Lorenzo Porcaro
+AB - This aim of this task is to develop and integrate technologies for the automatic description of the
+majority of the musical data described and collected in T3.1 Data Resource Preparation. It’s aim is to
+provide music descriptors at various modalities and levels of analysis for the target repertoires in
+order to facilitate the use cases. Although this task primarily deals with audio, we also consider
+symbolic and video music sources. The goals of this task can be summarized to:
+❖ Apply and evaluate existing of the state-of-the-art music description methods in the domain
+of classical music and focusing on the target repertoires.
+❖ Develop new and expand existing methods for music description tailored to the target
+repertoires.
+❖ Facilitate the use cases with robust descriptors.
+❖ Contribute data (descriptors) and algorithms to open repositories such as AcousticBrainz and
+Zenodo in order to facilitate future research on music processing.
+We will use various existing state-of-the-art methods/libraries for the extraction of descriptors. The
+aim of this deliverable is to provide descriptors for three type of music modalities, namely audio,
+symbolic scores, and videos
+We start from the low level audio descriptors, such a spectral and cepstral frame based
+descriptors. At next we will present mid-level audio descriptors, such as information related to
+rhythm (beat locations, tempo), the tonality (key, chords) and music performance (for choir singing:
+intonation, tuning). Next we present higher level music descriptors, such as music similarity and
+emotion classification. These descriptors are more related to human notion about music and must
+be considered more subjective from the mid-level features. At next we present the descriptors
+derived from the symbolic representations of music (MEI, MusicXML, MIDI) , and finally we will
+describe descriptors derived from music videos (concerts, rehearsals etc). These descriptors fuse
+information from both audio and video, and thus are considered as multi-modal descriptors.
+Essentia [1] will be used as the as the main framework for extracting state-of-the-art audio
+features. Apart from Essentia, we will deploy other state-of-the-art methods of music description.
+These methods will be appropriately selected in order to meet TROMPA use case requirements, and
+will be adapted and further developed. Whenever possible, these methods will be contributed to
+Essentia, otherwise will be provided and integrated as individual open libraries.
+The methods that will be developed and the descriptors that we will be extracted are the
+following:
+❖ Low-level audio descriptors: We will use Essentia as the tool to extract these descriptors
+which among others are band energies (bark, mel, ERP), cepstral descriptors (mfcc, bfcc),
+spectral moments and time domain features (envelope, ZCR)
+❖ Harmonic-Tonal descriptors: Include various representations such as the chromagram,
+Harmonic Pitch Class Profile (HPC), chord descriptors, key, tuning. These descriptors will be
+extracted and evaluated in the context of TROMPA use cases but we do not intend to further
+investigate and research the development of these descriptors. We will contribute to the
+SoA in terms of evaluating these descriptors described in large amounts of western classical
+music data. Moreover we may contribute to the SoA with new datasets (see next subsection
+Human Annotations / Human Data). The harmonic/tonal descriptors can be potentially use
+in all cases that involve audio files. To this end, we have identified the following potential
+use of the rhythm descriptors:
+➢ Music Enthusiasts: Harmonic/Tonal descriptors can be used to facilitate a music
+recommendation/music similarity engine..
+➢ Instrument Players: Harmonic/Tonal descriptors can be used to analyze existing or
+new performances of instrument players.
+➢ Choir Singers: As in the instrument players use case, we can use tonal descriptors
+(e.g. tuning) to characteristics of choir singing performances.
+➢ Music Scholars: The chord descriptors can facilitate musicological research, e.g.
+retrieving works with similar chord progressions.
+❖ Rhythm descriptors: Rhythm descriptors contain explicit information about the rhythmic
+content of a music piece, such as tempo, beats, tempo curves (tempo fluctuations), time
+signature, rhythm tags and meter. We will use and adapt existing state-of-the-art methods
+of rhythm processing methods will be evaluated in the scope of TROMPA and if the adopted
+methods do not prove to be efficient, we will develop new methods. The rhythm descriptors
+can be potentially use in all cases that involve audio files:
+➢ Music Enthusiasts: Rhythm descriptors can be used to facilitate a music
+recommendation/music similarity engine.
+➢ Instrument Players: Rhythm descriptors such tempo fluctuations can be used to
+analyze existing or new performances of instrument players.
+➢ Choir Singers: As in the instrument players use case, we can use rhythm descriptors
+to analyze rhythm characteristics of choir singing performances.
+❖ Singing voice analysis: Singing voice analysis involves extracting information about the
+vocals of a music piece. Singing voice may appear in music pieces in several ways:
+accompanied or a cappella, solo or ensemble, e.g. choirs. Many expressive properties of
+singing voice can be extracted, including (but not limited to) pitch curves (curves showing
+the evolution of the fundamental frequency in time), intonation (accuracy of pitch in
+singing), degree of unison (the agreement between all the voice sources) and
+synchronization. This particular task is primarily related to the Choir singers use case.
+Moreover, we will contribute to the state-of-the-art in multi-pitch estimation, building new
+models trained using choral singing data and we will develop a framework capable of
+extracting intonation descriptors given an audio input and an associated score. In addition,
+and taking advantage of the human-annotated data that will be gathered in the scope of
+TROMPA, we plan to contribute to the state-of-the-art of singing performance rating,
+combining low-level and pitch descriptors with annotations.
+❖ Music similarity: In the context of TROMPA project, we will make use of content and
+context-based models for retrieving similarity measures. In particular, we will focus on
+understanding the role of these measures when embedded in more complex architectures,
+such as Musical Recommender Systems. Indeed, we will make use of the notion of similarity
+for understanding and characterizing the complex and heterogeneous nature of the
+Western Classical Music repertoire, we will compare different musical repertoires, and we
+will create listening experiences for the users which can enhance the discovery of the
+European Musical heritage. Music similarity estimation can be potentially used in the
+following scenarios:
+➢ Music Enthusiasts: help the users in the discovery of Western Classical Music.
+➢ Instrument Players, Choir singers: help musician and singers during the learning
+process in identifying musical pieces which most can fit their education, basing on the
+training level and personal musical taste.
+Emotion Tag Annotation: In the context of the TROMPA project, we will make use of the
+categorical approach to annotate musical excerpts with emotion ratings. We will study the
+agreement in emotion annotation and consider also personalized models. In order to analyze
+annotation agreement of emotional tags, we will ask the user to provide annotations in
+emotion ratings such as transcendence, peacefulness, power, joyful activation, tension,
+sadness, anger, disgust, fear, surprise, tenderness on a likert scale.
+❖ Symbolic descriptors: Symbolic descriptors will be used in facilitating tasks related to the
+automatic assessment of music pieces for the choir singers and the instrument players use
+cases. Moreover we will extract baseline symbolic descriptors that can be potentially
+exploited in other use cases, such as the music scholars use case. We will investigate which
+score features of a music piece are relevant to its playing difficulty. To do so, we will need
+several types of data to train and evaluate our model including symbolic scores, annotations
+about the difficulty of the pieces, and audio recordings of several renditions of the pieces
+performed by different people. The symbolic descriptors are initially focused on the choir
+singers and instrument players pilots. However they can be potentially used in other pilots,
+such as the music scholars pilots. This possibility will be investigated in the next months of
+the project and will be reported in detail in the next version of this deliverable.
+❖ Video descriptors: Video descriptors are aimed to provide additional semantic information
+related to video recordings of musical performances. In the scope of the project, we will
+focus on the following tasks revealing the potential of using video data:
+➢ Video tagging: general-purpose video tagging in the domain of musical
+performances, providing frame-level and video-level labels from a pre-defined
+ontology.
+➢ Musical instrument detection: providing a position of an object in a form of a
+rectangular bounding box.
+➢ Automatic object segmentation: localizing objects from a pre-defined ontology as
+an enclosed free-form area at a frame level.
+Video descriptors can be used in many use cases which involve video, to name a few:
+➢ Instrument Players: showing the fingering charts upon a video recording.
+➢ Choir Singers: counting the number of singers.
+➢ Music Enthusiasts: providing a more detailed transcription for music performances,
+instrument-to-instrument navigation in music videos, highlighting
+playing/non-playing instruments in videos.
+The automatic description tools that act on a file input (e.g. music file or video file) will be made
+available as executable programs or will be integrated to Essentia, allowing us to programmatically
+call the tools and retrieve the descriptors. We plan to develop a management tool that will allow us
+to automatically retrieve content described in the CE, perform some computation on that content,
+and then store descriptors or some other type of generated data, making it available again in the CE.
+For the tools that do not operate on a simple input/output basis we plan to provide documentation
+and software libraries for the developers of these tools to be able to easily retrieve data from the CE
+and submit descriptors or other results for other members of the consortium to use. We will
+promote the use of common file formats to store the descriptors computed by the tools presented
+in this document. A final decision for the data format will be described in the next version of this
+deliverable. We plan to publicly host the descriptors computed by these tools so that they can be accessed by other members of the consortium and the public. The location of these descriptors will
+be able to be obtained by querying the CE.
+N2 - This aim of this task is to develop and integrate technologies for the automatic description of the
+majority of the musical data described and collected in T3.1 Data Resource Preparation. It’s aim is to
+provide music descriptors at various modalities and levels of analysis for the target repertoires in
+order to facilitate the use cases. Although this task primarily deals with audio, we also consider
+symbolic and video music sources. The goals of this task can be summarized to:
+❖ Apply and evaluate existing of the state-of-the-art music description methods in the domain
+of classical music and focusing on the target repertoires.
+❖ Develop new and expand existing methods for music description tailored to the target
+repertoires.
+❖ Facilitate the use cases with robust descriptors.
+❖ Contribute data (descriptors) and algorithms to open repositories such as AcousticBrainz and
+Zenodo in order to facilitate future research on music processing.
+We will use various existing state-of-the-art methods/libraries for the extraction of descriptors. The
+aim of this deliverable is to provide descriptors for three type of music modalities, namely audio,
+symbolic scores, and videos
+We start from the low level audio descriptors, such a spectral and cepstral frame based
+descriptors. At next we will present mid-level audio descriptors, such as information related to
+rhythm (beat locations, tempo), the tonality (key, chords) and music performance (for choir singing:
+intonation, tuning). Next we present higher level music descriptors, such as music similarity and
+emotion classification. These descriptors are more related to human notion about music and must
+be considered more subjective from the mid-level features. At next we present the descriptors
+derived from the symbolic representations of music (MEI, MusicXML, MIDI) , and finally we will
+describe descriptors derived from music videos (concerts, rehearsals etc). These descriptors fuse
+information from both audio and video, and thus are considered as multi-modal descriptors.
+Essentia [1] will be used as the as the main framework for extracting state-of-the-art audio
+features. Apart from Essentia, we will deploy other state-of-the-art methods of music description.
+These methods will be appropriately selected in order to meet TROMPA use case requirements, and
+will be adapted and further developed. Whenever possible, these methods will be contributed to
+Essentia, otherwise will be provided and integrated as individual open libraries.
+The methods that will be developed and the descriptors that we will be extracted are the
+following:
+❖ Low-level audio descriptors: We will use Essentia as the tool to extract these descriptors
+which among others are band energies (bark, mel, ERP), cepstral descriptors (mfcc, bfcc),
+spectral moments and time domain features (envelope, ZCR)
+❖ Harmonic-Tonal descriptors: Include various representations such as the chromagram,
+Harmonic Pitch Class Profile (HPC), chord descriptors, key, tuning. These descriptors will be
+extracted and evaluated in the context of TROMPA use cases but we do not intend to further
+investigate and research the development of these descriptors. We will contribute to the
+SoA in terms of evaluating these descriptors described in large amounts of western classical
+music data. Moreover we may contribute to the SoA with new datasets (see next subsection
+Human Annotations / Human Data). The harmonic/tonal descriptors can be potentially use
+in all cases that involve audio files. To this end, we have identified the following potential
+use of the rhythm descriptors:
+➢ Music Enthusiasts: Harmonic/Tonal descriptors can be used to facilitate a music
+recommendation/music similarity engine..
+➢ Instrument Players: Harmonic/Tonal descriptors can be used to analyze existing or
+new performances of instrument players.
+➢ Choir Singers: As in the instrument players use case, we can use tonal descriptors
+(e.g. tuning) to characteristics of choir singing performances.
+➢ Music Scholars: The chord descriptors can facilitate musicological research, e.g.
+retrieving works with similar chord progressions.
+❖ Rhythm descriptors: Rhythm descriptors contain explicit information about the rhythmic
+content of a music piece, such as tempo, beats, tempo curves (tempo fluctuations), time
+signature, rhythm tags and meter. We will use and adapt existing state-of-the-art methods
+of rhythm processing methods will be evaluated in the scope of TROMPA and if the adopted
+methods do not prove to be efficient, we will develop new methods. The rhythm descriptors
+can be potentially use in all cases that involve audio files:
+➢ Music Enthusiasts: Rhythm descriptors can be used to facilitate a music
+recommendation/music similarity engine.
+➢ Instrument Players: Rhythm descriptors such tempo fluctuations can be used to
+analyze existing or new performances of instrument players.
+➢ Choir Singers: As in the instrument players use case, we can use rhythm descriptors
+to analyze rhythm characteristics of choir singing performances.
+❖ Singing voice analysis: Singing voice analysis involves extracting information about the
+vocals of a music piece. Singing voice may appear in music pieces in several ways:
+accompanied or a cappella, solo or ensemble, e.g. choirs. Many expressive properties of
+singing voice can be extracted, including (but not limited to) pitch curves (curves showing
+the evolution of the fundamental frequency in time), intonation (accuracy of pitch in
+singing), degree of unison (the agreement between all the voice sources) and
+synchronization. This particular task is primarily related to the Choir singers use case.
+Moreover, we will contribute to the state-of-the-art in multi-pitch estimation, building new
+models trained using choral singing data and we will develop a framework capable of
+extracting intonation descriptors given an audio input and an associated score. In addition,
+and taking advantage of the human-annotated data that will be gathered in the scope of
+TROMPA, we plan to contribute to the state-of-the-art of singing performance rating,
+combining low-level and pitch descriptors with annotations.
+❖ Music similarity: In the context of TROMPA project, we will make use of content and
+context-based models for retrieving similarity measures. In particular, we will focus on
+understanding the role of these measures when embedded in more complex architectures,
+such as Musical Recommender Systems. Indeed, we will make use of the notion of similarity
+for understanding and characterizing the complex and heterogeneous nature of the
+Western Classical Music repertoire, we will compare different musical repertoires, and we
+will create listening experiences for the users which can enhance the discovery of the
+European Musical heritage. Music similarity estimation can be potentially used in the
+following scenarios:
+➢ Music Enthusiasts: help the users in the discovery of Western Classical Music.
+➢ Instrument Players, Choir singers: help musician and singers during the learning
+process in identifying musical pieces which most can fit their education, basing on the
+training level and personal musical taste.
+Emotion Tag Annotation: In the context of the TROMPA project, we will make use of the
+categorical approach to annotate musical excerpts with emotion ratings. We will study the
+agreement in emotion annotation and consider also personalized models. In order to analyze
+annotation agreement of emotional tags, we will ask the user to provide annotations in
+emotion ratings such as transcendence, peacefulness, power, joyful activation, tension,
+sadness, anger, disgust, fear, surprise, tenderness on a likert scale.
+❖ Symbolic descriptors: Symbolic descriptors will be used in facilitating tasks related to the
+automatic assessment of music pieces for the choir singers and the instrument players use
+cases. Moreover we will extract baseline symbolic descriptors that can be potentially
+exploited in other use cases, such as the music scholars use case. We will investigate which
+score features of a music piece are relevant to its playing difficulty. To do so, we will need
+several types of data to train and evaluate our model including symbolic scores, annotations
+about the difficulty of the pieces, and audio recordings of several renditions of the pieces
+performed by different people. The symbolic descriptors are initially focused on the choir
+singers and instrument players pilots. However they can be potentially used in other pilots,
+such as the music scholars pilots. This possibility will be investigated in the next months of
+the project and will be reported in detail in the next version of this deliverable.
+❖ Video descriptors: Video descriptors are aimed to provide additional semantic information
+related to video recordings of musical performances. In the scope of the project, we will
+focus on the following tasks revealing the potential of using video data:
+➢ Video tagging: general-purpose video tagging in the domain of musical
+performances, providing frame-level and video-level labels from a pre-defined
+ontology.
+➢ Musical instrument detection: providing a position of an object in a form of a
+rectangular bounding box.
+➢ Automatic object segmentation: localizing objects from a pre-defined ontology as
+an enclosed free-form area at a frame level.
+Video descriptors can be used in many use cases which involve video, to name a few:
+➢ Instrument Players: showing the fingering charts upon a video recording.
+➢ Choir Singers: counting the number of singers.
+➢ Music Enthusiasts: providing a more detailed transcription for music performances,
+instrument-to-instrument navigation in music videos, highlighting
+playing/non-playing instruments in videos.
+The automatic description tools that act on a file input (e.g. music file or video file) will be made
+available as executable programs or will be integrated to Essentia, allowing us to programmatically
+call the tools and retrieve the descriptors. We plan to develop a management tool that will allow us
+to automatically retrieve content described in the CE, perform some computation on that content,
+and then store descriptors or some other type of generated data, making it available again in the CE.
+For the tools that do not operate on a simple input/output basis we plan to provide documentation
+and software libraries for the developers of these tools to be able to easily retrieve data from the CE
+and submit descriptors or other results for other members of the consortium to use. We will
+promote the use of common file formats to store the descriptors computed by the tools presented
+in this document. A final decision for the data format will be described in the next version of this
+deliverable. We plan to publicly host the descriptors computed by these tools so that they can be accessed by other members of the consortium and the public. The location of these descriptors will
+be able to be obtained by querying the CE.
+PY - 2019
+ST - D3.2
+TI - Deliverable 3.2 Music Description
+UR - https://trompamusic.eu/deliverables/TR-D3.2-Music_Description_v1.pdf
+SN - TR-D3.2-Music Description v1
+ER - 

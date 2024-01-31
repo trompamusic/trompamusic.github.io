@@ -1,0 +1,17 @@
+TY - RPRT
+AU - David Weigl
+AU - Werner Goebl
+AU - Álvaro Sarasúa
+AU - Helena Cuesta
+AB - One of the aims of TROMPA is to formalise expert (musicologists and educators) and crowd (music enthusiasts) knowledge on various aspects of performances and musical scores in terms of performance quality (such as intonation and voice quality in case of singing or technical brilliance in case of instrumental music) and of piece difficulty (i.e., the difficulty of performing a piece as a singer or instrumental player). 
+The notion of “score difficulty” is a complex construct, dependent upon (and hence, necessarily to be understood relative to) the expertise and skill level of the performer. Further, motoric-physiological aspects of difficulty depend strongly on the particularities of specific instruments, the tempo of a performance, and on the playing style called for by the piece or preferred by the individual performer. As such, different experts may disagree in their assessment of piece difficulty, depending on how they weigh these diverse aspects in their judgement; and automatic algorithms to determine such a measure must therefore be understood as coarse-grained abstraction of the many facets influencing the performance difficulty of a particular score. Similarly, a performance’s quality (in the sense of “goodness”) is difficult to pin down, representing a highly subjective notion likely to confound consistent ratings even among human judges. 
+
+N2 - One of the aims of TROMPA is to formalise expert (musicologists and educators) and crowd (music enthusiasts) knowledge on various aspects of performances and musical scores in terms of performance quality (such as intonation and voice quality in case of singing or technical brilliance in case of instrumental music) and of piece difficulty (i.e., the difficulty of performing a piece as a singer or instrumental player). 
+The notion of “score difficulty” is a complex construct, dependent upon (and hence, necessarily to be understood relative to) the expertise and skill level of the performer. Further, motoric-physiological aspects of difficulty depend strongly on the particularities of specific instruments, the tempo of a performance, and on the playing style called for by the piece or preferred by the individual performer. As such, different experts may disagree in their assessment of piece difficulty, depending on how they weigh these diverse aspects in their judgement; and automatic algorithms to determine such a measure must therefore be understood as coarse-grained abstraction of the many facets influencing the performance difficulty of a particular score. Similarly, a performance’s quality (in the sense of “goodness”) is difficult to pin down, representing a highly subjective notion likely to confound consistent ratings even among human judges. 
+
+PY - 2019
+ST - D5.4
+TI - Music Performance Assessment
+UR - https://trompamusic.eu/deliverables/TR-D5.4-Music_Performance_Assessment_v2.pdf
+SN - TR-D5.4-Music Performance Assessment Mechanisms v1
+ER - 
